@@ -1,5 +1,3 @@
-
-```markdown
 # Hosting a Static Website on AWS with CloudFormation
 
 This project involves deploying a static HTML web application on AWS using CloudFormation. Below is an overview of the resources utilized and the steps taken to deploy the web app.
@@ -69,11 +67,6 @@ The project utilizes various AWS services and configurations:
 
 - To avoid incurring unnecessary costs, delete the CloudFormation stack and associated resources after testing or when they are no longer needed.
 
-## Additional Notes
-
-- Ensure proper security configurations are in place to protect the resources.
-- Monitor AWS usage to manage costs effectively.
-- Regularly update and maintain the website and associated resources.
 
 ## Resources
 
@@ -84,6 +77,3 @@ The project utilizes various AWS services and configurations:
 - [Amazon Route 53 Documentation](https://docs.aws.amazon.com/route53/)
 - [Amazon Certificate Manager Documentation](https://docs.aws.amazon.com/acm/)
 - [Amazon SNS Documentation](https://docs.aws.amazon.com/sns/)
-```
-
-This README provides an overview of the project, deployment instructions, cleanup procedures, additional notes, and links to relevant AWS documentation for further reference. Adjust the instructions and details as needed based on your specific project setup and requirements.
